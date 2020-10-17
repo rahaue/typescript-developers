@@ -1,6 +1,5 @@
 // Javascriptに変換(Compileしよう！)
 // tscというコマンド使うと、変換できる
+let message: string = "Hello, ts-node"
 
-const message: String = "Hello, TypeScript!";
-
-console.log({ message })
+console.log({message})
