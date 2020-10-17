@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rahaue/typescript-developers/issues"
   },
-  "homepage": "https://github.com/rahaue/typescript-developers#readme"
+  "homepage": "https://github.com/rahaue/typescript-developers#readme",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
 }
